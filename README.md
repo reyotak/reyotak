@@ -1,4 +1,14 @@
-### Hi there 👋
+###
+
+Computer Science Student at Unicamp year 021.
+
+ I’m currently interested in: 
+- Android and Android Applications
+- Games and Emulators
+
+Public projects:
+- Android App Porteiro Eletrônico: [Video](https://www.youtube.com/shorts/uw5IAc14CVY) | [Github Page](https://github.com/reyotak/porteiro-eletronico-app)
+- Ricochet Robots: [Video](https://youtu.be/51W2z2NXbV) | [Github Page](https://github.com/reyotak/reyotak.github.io) | [Play Online](https://reyotak.github.io/)
 
 <!--
 **reyotak/reyotak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
